@@ -1,0 +1,15 @@
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpStringFunctions\bin\Debug\net6.0\CSharpStringFunctions.exe
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpStringFunctions\bin\Debug\net6.0\CSharpStringFunctions.deps.json
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpStringFunctions\bin\Debug\net6.0\CSharpStringFunctions.runtimeconfig.json
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpStringFunctions\bin\Debug\net6.0\CSharpStringFunctions.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpStringFunctions\bin\Debug\net6.0\ref\CSharpStringFunctions.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpStringFunctions\bin\Debug\net6.0\CSharpStringFunctions.pdb
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpStringFunctions\obj\Debug\net6.0\CSharpStringFunctions.csproj.AssemblyReference.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpStringFunctions\obj\Debug\net6.0\CSharpStringFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpStringFunctions\obj\Debug\net6.0\CSharpStringFunctions.AssemblyInfoInputs.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpStringFunctions\obj\Debug\net6.0\CSharpStringFunctions.AssemblyInfo.cs
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpStringFunctions\obj\Debug\net6.0\CSharpStringFunctions.csproj.CoreCompileInputs.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpStringFunctions\obj\Debug\net6.0\CSharpStringFunctions.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpStringFunctions\obj\Debug\net6.0\ref\CSharpStringFunctions.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpStringFunctions\obj\Debug\net6.0\CSharpStringFunctions.pdb
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpStringFunctions\obj\Debug\net6.0\CSharpStringFunctions.genruntimeconfig.cache
